@@ -8,7 +8,7 @@ import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { AboutComponent } from './about/about.component';
 import { GallaryComponent } from './gallary/gallary.component';
-
+// Gaurav 
 @NgModule({
   declarations: [
     AppComponent,
